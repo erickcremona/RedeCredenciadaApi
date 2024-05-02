@@ -1,0 +1,52 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <!--<ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>-->
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Hosting.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.14" />
+    <PackageReference Include="TopDown.Core.Cache.Redis" Version="5.0.13" />
+    <PackageReference Include="TopDown.Core.Domain.BaseController.API" Version="5.0.28" />
+    <PackageReference Include="TopDown.Core.Domain.DTO" Version="5.0.28">
+      <CopyToOutputDirectory>lib\net5.0\*</CopyToOutputDirectory>
+    </PackageReference>
+    <PackageReference Include="TopDown.Core.Domain.Extensions" Version="5.0.28" />
+    <PackageReference Include="TopDown.Core.ElasticSearch.Apm" Version="5.0.28" />
+    <PackageReference Include="TopDown.Core.HealthChecks.Api" Version="5.0.28" />
+    <PackageReference Include="TopDown.Core.Log.Serilog" Version="5.0.28" />
+    <PackageReference Include="TopDown.Core.Service.Discovery.Consul.Client" Version="5.0.28" />
+    <PackageReference Include="TopDown.Core.Service.Discovery.Extension" Version="5.0.28" />
+    <PackageReference Include="TopDown.Core.WebApi" Version="5.0.28" />
+    <PackageReference Include="TopDown.Core.WebApi.Domain" Version="5.0.28" />
+
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="5.0.0" />
+    <PackageReference Include="TopDown.Core.WinService" Version="5.0.13" />
+    <PackageReference Include="TopDown.Core.Infra.MemoryBus" Version="5.0.28" />
+    <PackageReference Include="TopDown.Core.Data.Oracle" Version="5.0.13" />
+
+    <PackageReference Include="AutoFixture" Version="4.17.0" />
+    <PackageReference Include="TopDown.Core.Domain.BaseController.API" Version="5.0.28" />
+    <PackageReference Include="TopDown.Core.Domain.ProxyBaseController.Api" Version="5.0.28" />
+    <PackageReference Include="TopDown.Core.Facade.Rest.Request" Version="5.0.28" />
+    <PackageReference Include="TopDown.Core.HealthChecks.Api" Version="5.0.28" />
+    <PackageReference Include="TopDown.Core.Log.Serilog" Version="5.0.28" />
+    <PackageReference Include="TopDown.Core.Service.Discovery.Extension" Version="5.0.13" />
+    <PackageReference Include="TopDown.Core.WebApi" Version="5.0.28" />
+    <PackageReference Include="TopDown.Core.WebApi.Domain" Version="5.0.28" />
+    <PackageReference Include="TopDown.Core.WebApi.Extensions" Version="5.0.28" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RedeCredenciadaDomain\RedeCredenciadaDomain.csproj" />
+    <ProjectReference Include="..\RedeCredenciadaInfraData\RedeCredenciadaInfraData.csproj" />
+  </ItemGroup>
+
+</Project>

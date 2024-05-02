@@ -1,0 +1,15 @@
+D:\TopSaude\RedeCredenciadaApi\src\RedeCredenciadaInfraData\bin\Debug\net5.0\RedeCredenciadaInfraData.deps.json
+D:\TopSaude\RedeCredenciadaApi\src\RedeCredenciadaInfraData\bin\Debug\net5.0\RedeCredenciadaInfraData.dll
+D:\TopSaude\RedeCredenciadaApi\src\RedeCredenciadaInfraData\bin\Debug\net5.0\RedeCredenciadaInfraData.pdb
+D:\TopSaude\RedeCredenciadaApi\src\RedeCredenciadaInfraData\bin\Debug\net5.0\RedeCredenciadaDomain.dll
+D:\TopSaude\RedeCredenciadaApi\src\RedeCredenciadaInfraData\bin\Debug\net5.0\RedeCredenciadaDomain.pdb
+D:\TopSaude\RedeCredenciadaApi\src\RedeCredenciadaInfraData\obj\Debug\net5.0\RedeCredenciadaInfraData.csproj.AssemblyReference.cache
+D:\TopSaude\RedeCredenciadaApi\src\RedeCredenciadaInfraData\obj\Debug\net5.0\RedeCredenciadaInfraData.GeneratedMSBuildEditorConfig.editorconfig
+D:\TopSaude\RedeCredenciadaApi\src\RedeCredenciadaInfraData\obj\Debug\net5.0\RedeCredenciadaInfraData.AssemblyInfoInputs.cache
+D:\TopSaude\RedeCredenciadaApi\src\RedeCredenciadaInfraData\obj\Debug\net5.0\RedeCredenciadaInfraData.AssemblyInfo.cs
+D:\TopSaude\RedeCredenciadaApi\src\RedeCredenciadaInfraData\obj\Debug\net5.0\RedeCredenciadaInfraData.csproj.CoreCompileInputs.cache
+D:\TopSaude\RedeCredenciadaApi\src\RedeCredenciadaInfraData\obj\Debug\net5.0\RedeCredenciadaInfraData.csproj.CopyComplete
+D:\TopSaude\RedeCredenciadaApi\src\RedeCredenciadaInfraData\obj\Debug\net5.0\RedeCredenciadaInfraData.dll
+D:\TopSaude\RedeCredenciadaApi\src\RedeCredenciadaInfraData\obj\Debug\net5.0\ref\RedeCredenciadaInfraData.dll
+D:\TopSaude\RedeCredenciadaApi\src\RedeCredenciadaInfraData\obj\Debug\net5.0\RedeCredenciadaInfraData.pdb
+D:\TopSaude\RedeCredenciadaApi\src\RedeCredenciadaInfraData\obj\Debug\net5.0\refint\RedeCredenciadaInfraData.dll

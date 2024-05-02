@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "e9d6hiUbnDBAtQ57SNAgjMp8CCyFUNq1QeGzAoKkjXV6rfT4+0UTApEo1MrtBlHct9GpPt/I912cWBIYAmKzvw==",
+  "success": true,
+  "projectFilePath": "D:\\TopSaude\\RedeCredenciadaApi\\src\\RedeCredenciadaDomain\\RedeCredenciadaDomain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Erick.cremona\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\Erick.cremona\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Erick.cremona\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Erick.cremona\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
